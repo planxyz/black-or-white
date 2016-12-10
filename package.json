@@ -1,6 +1,6 @@
 {
   "name": "blackorwhite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get either black or white hex string depending on the background color for maximum contrast.",
   "homepage": "https://github.com/planxyz/blackorwhite",
   "main": "index.js",
