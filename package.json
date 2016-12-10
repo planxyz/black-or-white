@@ -1,0 +1,16 @@
+{
+  "name": "blackorwhite",
+  "version": "0.0.1",
+  "description": "Get either black or white hex string depending on the background color for maximum contrast.",
+  "homepage": "https://github.com/planxyz/blackorwhite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melvyn Kim <melvyn@plan.xyz> (http://plan.xyz)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/planxyz/blackorwhite.git"
+  }
+}
